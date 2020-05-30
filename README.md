@@ -1,2 +1,2 @@
-# cyrd.github.io
-About CyrdGames
+# cyrdgames.github.io
+Official website for CyrdGames

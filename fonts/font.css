@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'TechnicalForest-Regular';
+  src: url('TechnicalForest-Regular.eot');
+  src: url('TechnicalForest-Regular.eot?#iefix') format('embedded-opentype'),
+       url('TechnicalForest-Regular.svg#TechnicalForest-Regular') format('svg'),
+       url('TechnicalForest-Regular.ttf') format('truetype'),
+       url('TechnicalForest-Regular.woff') format('woff'),
+       url('TechnicalForest-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
